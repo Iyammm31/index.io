@@ -1,0 +1,44 @@
+nav{
+ display: flex;
+ justify-content: space-between;
+ align-items:center;
+ height:60px;
+ background-color:#c5930a9c;
+ box-shadow:2px 2px 12px rgba(0,0,0,0.2);
+ padding:0px 5%;
+ 
+}
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.CWcPf__yE9nO_ntnCfMPrgHaEW?w=307&h=182&c=7&r=0&o=5&pid=1.7");
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  p {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  ol{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  ul{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  button{
+    background-color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  a{
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
